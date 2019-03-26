@@ -20,3 +20,5 @@ stands for "Up", 1 stands for "Down", 2 stands for "Left", and 3 stands for "Rig
 logic lives and is executed.
 
 BaseDisplayer_3.py and Displayer_3.py : These print the grid
+
+This was my homework assignment of Artificial Intelligence Course. 
